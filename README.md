@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan8265&label=Profile%20views&color=0e75b6&style=flat" alt="mohan8265" /> </p>
 
+- 🔭 working on **multiple projects**
+
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java, DSA, Spring Boot, MySQL, GitHub**
@@ -24,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan8265&show_icons=true&locale=en&layout=compact" alt="mohan8265" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohan8265&show_icons=true&locale=en" alt="mohan8265" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan8265&" alt="mohan8265" /></p>
