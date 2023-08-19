@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello I'm Mohan</h1>
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250" style="border-radius: 20 px">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250">
 </img>
 <h3 align="left">A Passionate Java Spring Boot developer with a knack for crafting efficient backend solutions. Skilled in building RESTful APIs that scale. Eager learner, dedicated to delivering clean code and optimizing performance. Let's code the future with Spring Boot!</h3>
 
