@@ -1,5 +1,9 @@
-<h1 align="center">Hi I'm Mohan</h1>
-<h3 align="center">Passionate Java Spring Boot developer with a knack for crafting efficient backend solutions. Skilled in building RESTful APIs and microservices that scale. Eager learner, dedicated to delivering clean code and optimizing performance. Let's code the future with Spring Boot!</h3>
+
+<h1 align="center">Hello I'm Mohan</h1>
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250" style="border-radius: 20px">
+</img>
+<h3 align="left">A Passionate Java Spring Boot developer with a knack for crafting efficient backend solutions. Skilled in building RESTful APIs that scale. Eager learner, dedicated to delivering clean code and optimizing performance. Let's code the future with Spring Boot!</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan8265&label=Profile%20views&color=0e75b6&style=flat" alt="mohan8265" /> </p>
 
@@ -8,8 +12,6 @@
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java, DSA, Spring Boot, MySQL, GitHub**
-
-- 📫 How to reach me **sidvin612@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XhuVBcQ_VjAL8-Z9HJ4hOgOiajc5EtEpgAtTX9w__iU/edit?usp=sharing](https://docs.google.com/document/d/1XhuVBcQ_VjAL8-Z9HJ4hOgOiajc5EtEpgAtTX9w__iU/edit?usp=sharing)
 
