@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, DSA, Spring Boot, MySQL, GitHub**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XhuVBcQ_VjAL8-Z9HJ4hOgOiajc5EtEpgAtTX9w__iU/edit?usp=sharing](https://docs.google.com/document/d/1XhuVBcQ_VjAL8-Z9HJ4hOgOiajc5EtEpgAtTX9w__iU/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1XhuVBcQ_VjAL8-Z9HJ4hOgOiajc5EtEpgAtTX9w__iU/edit?usp=sharing](https://docs.google.com/document/d/1iDTNKYR8PdxzaLF7Egy6WYr8AeaAKysxajYxs3qPCqw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
